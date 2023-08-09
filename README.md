@@ -17,3 +17,5 @@ Personne Ibou :
   Points : Les Points augmentent progressivement pendant la semaine, avec une forte augmentation vers la fin.
   Fréquence : La Fréquence est relativement stable, avec quelques fluctuations.
   Commentaire : Ibou montre une augmentation significative en Points et maintient une Fréquence stable.
+
+En considérant les performances en Points et en Fréquence, Ibou semble être le meilleur choix. Il a montré une tendance positive en Points tout au long de la semaine, avec une augmentation significative vers la fin. De plus, sa Fréquence est relativement stable. Bien qu'il y ait eu une journée où la Fréquence a augmenté de manière notable, cette variation semble être acceptable compte tenu de la stabilité générale.
